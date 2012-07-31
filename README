@@ -1,0 +1,4 @@
+
+This repository combines LSODAR from ODEPACK with the python interface originally written by Ryan Gutenkunst.
+
+To compile, just run make.
